@@ -8,7 +8,7 @@
 	<name>springmvc Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<jackson.version>2.6.3</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 		<springframework.version>4.0.6.RELEASE</springframework.version>
 		<jstl.version>1.2</jstl.version>
 	</properties>
